@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Hilman Fauzi Rijal
+ * @author Yuwantoro
  */
 public class Admin {
 
